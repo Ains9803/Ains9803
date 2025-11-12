@@ -3,7 +3,7 @@
 Soy estudiante de Ingeniería en Cinecias Informáticas en la UCI, apasionado por el desarrollo web y la programación.
 
 ## 💻 Habilidades
-- **Lenguajes**: C++,Java, HTML, CSS
+- **Lenguajes**: C++, Java, HTML, CSS, JavaScript
 - **Frameworks**:  Angular
 - **Herramientas**: Git, GitHub, Visual Studio Code
 
