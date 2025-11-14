@@ -4,11 +4,11 @@ Soy estudiante de Ingeniería en Cinecias Informáticas en la UCI, apasionado po
 
 ## 💻 Habilidades
 - **Lenguajes**: C++, Java, HTML, CSS, JavaScript
-- **Frameworks**:  Angular
+- **Frameworks**:  Angular, React
 - **Herramientas**: Git, GitHub, Visual Studio Code
 
 ## 📚 Proyectos Destacados
-- **AnimeCBF**: Una aplicación web para la visualización y descarga de series anime. [Enlace al repositorio](https://github.com/Ains9803/ainmecbf)
+
 
 ## 🌱 Actualmente Aprendiendo
 - Desarrollo de aplicaciones móviles con Flutter
