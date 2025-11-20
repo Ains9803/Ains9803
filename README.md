@@ -1,6 +1,6 @@
 👋 ¡Hola, soy Eleiner Céspedes!
 
-🎓 Estudiante de Ingeniería en Ciencias Informáticas en la UCI  
+🎓 Estudiante de último año de la carrera Ingeniería en Ciencias Informáticas en la UCI  
 💡 Apasionado por el desarrollo web y la programación
 
 ## 🛠️ Tech Stack
